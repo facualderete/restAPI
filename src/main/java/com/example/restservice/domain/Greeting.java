@@ -1,4 +1,4 @@
-package com.example.restservice.model;
+package com.example.restservice.domain;
 
 /**
  * This application uses the Jackson JSON library to automatically marshal instances of type Greeting into JSON.
